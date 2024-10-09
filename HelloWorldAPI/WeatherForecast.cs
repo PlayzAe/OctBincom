@@ -1,4 +1,4 @@
-namespace hello_world
+namespace HelloWorldAPI
 {
     public class WeatherForecast
     {
